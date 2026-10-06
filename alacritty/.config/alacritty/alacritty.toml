@@ -1,0 +1,16 @@
+[window]
+opacity = 0.8
+
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/blood_moon.toml"
+]
+
+[font]
+size = 8
+[font.normal]
+family = "JetBtainsMono Nerd Font"
+
+[cursor]
+style = { shape = "Underline", blinking = "On" }
+
